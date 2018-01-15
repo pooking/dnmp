@@ -20,7 +20,7 @@ Docker deploying Nginx MySQL PHP7 in one key, support full feature functions.
 1. Install `git`, `docker` and `docker-compose`;
 2. Clone project:
     ```
-    $ git clone https://github.com/yeszao/dnmp.git
+    $ git clone https://github.com/pooking/dnmp.git
     ```
 4. Start docker containers:
     ```
